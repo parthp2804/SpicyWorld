@@ -1,0 +1,32 @@
+body{
+  overflow-x: hidden;
+}
+#product-grid{
+  background-color: #fff;
+}
+/*.category-name{
+  text-decoration: underline;
+  font-size: 250%;
+  font-weight: 500;
+  font-family: Arial Narrow;
+  color:#000;
+}*/
+.card{
+  background-color: rgba(238, 242, 243, 0.5);
+  border:none;
+
+}
+.side-list{
+  border-right: 1px solid;
+  margin-top: 3%;
+
+}
+.side-list li {
+  list-style: circle;
+
+  color:#dd1818;
+}
+.side-list a{
+  color:#000;
+  text-decoration: none;
+}

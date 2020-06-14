@@ -1,0 +1,56 @@
+body{
+  overflow-x: hidden;
+}
+
+
+#intro-part{
+  background-color: rgba(238, 242, 243, 0.5)
+}
+.categories{
+  text-decoration: underline;
+  font-size: 300%;
+  font-weight: 500;
+  font-family: Arial Narrow;
+}
+#cat-items{
+  background-color: #fff
+}
+.cat-items-1{
+
+}
+.main_content{
+  font-family: Arial Narrow;
+}
+.inner-content{
+  font-size: 130%;
+}
+.button-1{
+  background-color: green;
+  color:white;
+}
+.button-1:hover{
+  color:white;
+}
+.list{
+  list-style: disc;
+  text-align: justify;
+  font-weight: 600;
+  font-size: 170%;
+  color:green;
+}
+.list li a{
+  text-decoration: none;
+  color:#dd1818;
+  font-family: Arial Narrow;
+}
+.list li a:hover{
+  font-size: 110%;
+
+}
+.list li{
+  margin-top: 10%;
+}
+.sfooter{
+  font-family: Arial Narrow;
+  font-size: 120%;
+}
