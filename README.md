@@ -17,3 +17,4 @@ Configurations
   >resources folder has necessary js and css files
   
 You can see the [live](http://www.spicyworld.com.au) website from here.
+  >Note: the website is actually working , so kindly do not place an order.
